@@ -2,7 +2,8 @@
 *El script desarrollado por **hdeleon.net**, explora "recursivamente" un sitio web dado, comenzando desde una URL base. Utiliza **PuppeteerSharp**, una biblioteca para controlar navegadores web automatizados en C#.*
 
 *Tienes el video completo.*
-(link)[https://www.youtube.com/watch?v=nwPCmrkSKqE]
+
+[link](https://www.youtube.com/watch?v=nwPCmrkSKqE)
 
 *El script básicamente cumple con la función de explorar un sitio web y extraer los enlaces válidos de **status 200 OK**. ten en cuenta que si no obtienes respuesta puede que la web emplee: **rate limiting** o también llamado: **throttling**, tenga cuidado con el tipo de web que se este atacando.*
 
