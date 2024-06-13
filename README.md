@@ -15,4 +15,4 @@
 
 dotnet run script.cs
 
-*! Nota: Es un script muy básico, puede perzonalizarlo a sus gustos.*
+*❗Nota: Es un script muy básico, puede perzonalizarlo a sus gustos.*
