@@ -11,10 +11,17 @@
 ![poloniex](https://github.com/4D7220426C7565/hdeleon_script/assets/171493198/9856b5ea-fd2b-42b0-9820-ff07121dcff4)
 
 *Atacando a https://www.google.com*
+
 ![test](https://github.com/4D7220426C7565/hdeleon_script/assets/171493198/6a969599-4c6f-44b9-80a1-9f39fb0d2429)
 
 *❗Nota: Es un script muy básico, puede perzonalizarlo a sus gustos.*
 
+*Instalar dotnet "Debian".*
+[Microsoft => Debian](https://learn.microsoft.com/en-us/dotnet/core/install/linux-debian)
+
+*Clonar repositorio.*
+
 ```sh
+git clone https://github.com/4D7220426C7565/hdeleon_script.git && cd hdeleon_script
 dotnet run Program.cs
 ```
