@@ -13,6 +13,6 @@
 *Atacando a https://www.google.com*
 ![test](https://github.com/4D7220426C7565/hdeleon_script/assets/171493198/6a969599-4c6f-44b9-80a1-9f39fb0d2429)
 
-dotnet run script.cs
+'''dotnet run script.cs'''
 
 *❗Nota: Es un script muy básico, puede perzonalizarlo a sus gustos.*
