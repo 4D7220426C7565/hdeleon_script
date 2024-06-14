@@ -14,7 +14,12 @@
 
 ![test](https://github.com/4D7220426C7565/hdeleon_script/assets/171493198/6a969599-4c6f-44b9-80a1-9f39fb0d2429)
 
-*❗Nota: Es un script muy básico, puede perzonalizarlo a sus gustos.*
+*❗Nota: Es un script muy básico, puede perzonalizarlo a sus gustos. Por otro, ```string Chrome = @"./../../../../../bin/chromium";``` dependerá si usa linux o windows, en mi caso uso chromium: **/bin/chromium***
+
+*Instalar(Linux) Chromium.*
+```sh
+sudo apt install chromium
+```
 
 *Instalar dotnet "Debian".*
 [Microsoft => Debian](https://learn.microsoft.com/en-us/dotnet/core/install/linux-debian)
