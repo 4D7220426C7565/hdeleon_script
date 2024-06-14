@@ -24,18 +24,20 @@ sudo apt install chromium
 *Instalar dotnet "Debian".*
 [Microsoft => Debian](https://learn.microsoft.com/en-us/dotnet/core/install/linux-debian)
 
+*Para ejecutar el code de C#:*
+
+```sh
+dotnet new console --framework net6.0 --output <Filename>
+cd <Filename>
+dotnet new sln
+dotnet add package PuppeteerSharp --version 18.0.1
+```
+- *net6.0 / net8.0 Dependerá que versión de ```dotnet``` quiere trabajar.*
+- *add package PuppeteerSharp --version 18.0.1 Instalar el paquete **PuppeteerSharp*** 
+
 *Clonar repositorio o simplemente copie el code. Así de fresco ;)*
 
 ```sh
 git clone https://github.com/4D7220426C7565/hdeleon_script.git && cd hdeleon_script
 dotnet run Program.cs
 ```
-
-Para ejecutar el code de C#:
-
-```sh
-dotnet new console --framework net6.0 --output <Filename>
-cd <Filename>
-dotnet new sln
-```
-- *net6.0 / net8.0. Dependerá que versión de ```dotnet``` quiere trabajar.*
